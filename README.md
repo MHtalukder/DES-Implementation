@@ -35,7 +35,7 @@ The tool supports multiple blocks of plaintext by padding it to multiples of 8 b
 ## How to Run
 
 1. Clone or download this repository.
-2. Open terminal or command prompt and navigate to the folder containing `des_tool.py`.
+2. Open terminal or command prompt and navigate to the folder containing `des_implementation_253_56_011.py`.
 3. Run the script:
 
 ```bash
